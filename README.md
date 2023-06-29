@@ -1,2 +1,4 @@
 
-# Gerador de senha para praticar html, css e principalmente JS
+# Gerador de senha
+
+Apenas para praticar desenvolvimento web, principalmente JavaScript.
