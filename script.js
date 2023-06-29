@@ -16,6 +16,7 @@ slider.oninput = function(){
     sizePassword.innerHTML = this.value;
 }
 
+//gerar senha e mostrar o oculto
 function generatePassword(){
     
     let pass = "";
@@ -28,7 +29,7 @@ function generatePassword(){
     passoword.innerHTML = pass;
     novaSenha = pass;
 }
-
+// função para copiar senha 
 function copyPassword(){
     alert("Senha copiada com sucesso!")
     navigator.clipboard.writeText(novaSenha);
