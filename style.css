@@ -102,7 +102,7 @@ body{
 .hide{
     display: none;
 }
-
+/* Esconder  */
 .container-password:hover .tooltip{
     visibility: visible;
     bottom: 50px;
